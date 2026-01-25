@@ -1,6 +1,5 @@
 # Hi 👋, I'm Saideep Arvind Bhange
 
-Assistant Software Engineer at Seatrium
 A Passionate Computer Science Engineer from Mumbai, India
 
 ---
