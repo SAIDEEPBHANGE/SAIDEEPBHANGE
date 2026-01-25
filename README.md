@@ -5,7 +5,7 @@ A Passionate Computer Science Engineer from Mumbai, India
 ---
 
 ### About Me
-- I am currently working as an Assistant Software Engineer at Seatrium.
+- I am currently working as an Assistant Software Engineer.
 - I hold a B.Tech in Computer Science from Punyashlok Ahilyadevi Holkar Solapur University.
 - My career goal is to leverage technical skills for innovation through continuous learning.
 - Quote I live by: "Do not start from one day, but start on day one."
