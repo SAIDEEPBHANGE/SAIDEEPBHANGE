@@ -21,12 +21,6 @@ A Passionate Computer Science Engineer from Mumbai, India
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Metrics](https://github.com/SAIDEEPBHANGE/metrics/blob/main/github-metrics.svg)
-
----
-
 ### Skills
 
 Programming Languages & Backend
